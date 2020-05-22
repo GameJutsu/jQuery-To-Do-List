@@ -8,8 +8,8 @@ A jQuery to-do list project with Bootstrap styling and animations.
 
 ## Built With
 
-* [jQuery](https://jquery.com/) - jQuery
-* [Bootstrap](https://getbootstrap.com/) - Bootstrap
+* [jQuery](https://jquery.com/)
+* [Bootstrap](https://getbootstrap.com/)
 
 ## Authors
 
